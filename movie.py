@@ -50,7 +50,7 @@ def initial_description():
     st.write("Welcome to the Movie Recommendation App!")
     st.write("Enter a movie ID below to get recommendations based on its genre.")
     #st.write("Imported CSV:")
-    st.write(pd.read_csv(r"APP_2/train_data.txt", sep=":::", header=None, names=["ID", "Title", "Genre", "Description"]))
+    st.write(pd.read_csv(r"train_data.txt", sep=":::", header=None, names=["ID", "Title", "Genre", "Description"]))
 
 # Read the data
 try:
