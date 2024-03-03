@@ -39,4 +39,7 @@ Feel free to connect with the author for any inquiries or feedback:
 
 We extend our gratitude to the Python and Streamlit communities for their invaluable resources and support, enabling us to develop this Movie Recommendation App.
 
+## Deployed App
+
+Check out the deployed Movie Recommendation App at: [Movie Recommendation App](https://huggingface.co/spaces/Raghavendra0827/Netflix_movie_recommendation_engine)
 ---
